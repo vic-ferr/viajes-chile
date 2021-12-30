@@ -13,6 +13,7 @@ body{
 
 .barra-navegacion{
     z-index: 4;
+    scroll-behavior: smooth;
 }
 
 .icono-nav{
@@ -31,6 +32,7 @@ body{
 
 .cartas-backgaround{
     background-color: rgba(7, 238, 255, 0.774);
+    margin-bottom: 10px;
 }
 
 /* .segunda-seccion{
