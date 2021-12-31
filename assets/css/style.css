@@ -4,9 +4,12 @@
     border: 0;
     box-sizing: border-box;
 }
+html{
+     scroll-behavior: smooth;
+}
 
 body{
-     background: black;
+    background: black;
     color: white;
     font-family: 'Inter', sans-serif;
 }
@@ -57,7 +60,7 @@ body{
 
 .estilo-formulario{
      background-color: #fff;
-      max-width:100%;
+     max-width:100%;
      height:400px;
      padding: 0;
      margin: 0;
@@ -70,7 +73,7 @@ body{
 }
 
 .icono-footer{
-    max-height: 40;
+    max-height: 40px;
     margin: 0 2px;
     color: #fff;
     font-size: 25px;
