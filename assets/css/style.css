@@ -61,6 +61,10 @@ body{
     border-radius: 2px;
 }
 
+.boton-contacto{
+    border: 2px solid  #fff;
+background-color: rgba(7, 238, 255, 0.774);
+}
 .estilo-formulario{
      background-color: #fff;
      max-width:100%;
